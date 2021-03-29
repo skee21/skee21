@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vanquisher2122
+- 👋 Hi, I’m shushant
 - 👀 I’m interested in python
 - 🌱 I’m currently learning machine learning and AI
 - 💞️ I’m looking to collaborate on Database management
