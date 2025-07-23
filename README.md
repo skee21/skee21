@@ -2,4 +2,4 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning machine learning and AI
 - 💞️ I’m looking to collaborate on Database management
-- 📫 Can contact me on shushantshadow2122@gmail.com
+- 📫 Can contact me on shushantskee@proton.me/gmail.com
